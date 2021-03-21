@@ -1,4 +1,4 @@
-# Bora fazer uns testes com git :)
+# Bora fazer uns testes com Git :)
 Feel free para alterarem/testarem o que quiserem :)
 
 # Alguns comandos úteis
@@ -11,3 +11,4 @@ Feel free para alterarem/testarem o que quiserem :)
  - **Fazer push para a branch que tu definiu no passo antereior**<br>
  `git push origin HEAD`
  
+...
